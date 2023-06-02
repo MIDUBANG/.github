@@ -1,28 +1,31 @@
 # 🏠 믿어방 
 
 [![image](https://github.com/MIDUBANG/MIDUBANG-FRONT/assets/81161750/a000a22e-8dd3-43e1-bdb0-e9d99cb3e703)](https://www.midubang.com/)
-썸네일 클릭 시 사이트로 이동됩니다.
+
+#### 썸네일 클릭 시 사이트로 이동합니다.
+
+- 믿어방 사이트: https://www.midubang.com
+- 시연 영상: https://www.youtube.com/watch?v=87sgWqe0_CM&feature=youtu.be
 
 <br>
-<br>
 
-### 🏠 개요
+# 🏠 개요
 
-믿어방은 **OCR과 chatGPT를 이용한 사회초년생 대상 임대차계약 가이드 서비스**입니다. <br>
+> 믿어방은 **OCR과 chatGPT를 이용한 사회초년생 대상 임대차계약 가이드 서비스**입니다. <br>
 믿어방 서비스는 자취를 처음해보거나 전/월세 부동산 계약에 대한 배경지식이 부족한 사람들에게 **임대차계약 전반에 대한 지식을 알기 쉽게 제공합니다.**
 
 <br>
 <br>
 
-### 🏠 제공 기능
+# 🏠 제공 기능
 ![Frame 358 (1)](https://github.com/MIDUBANG/MIDUBANG-FRONT/assets/81161750/88cf7508-2795-4abc-be1a-ca9bf75f98a5)
 
-1. 우리집 등기부등본 A to Z 분석
-2. 임대차계약서 특약 조항 해설 보기 
-3. 어려운 부동산 용어 쉽게 배우기
-4. 믿어방 AI 문자 마법사
-5. 자취방 구하기 A to Z 체크리스트 
-6. "챗쪽이 vs 금쪽이" 부동산 질문 게시판
+#### ✨ 우리집 등기부등본 A to Z 분석
+#### ✨ 임대차계약서 특약 조항 해설 보기 
+#### ✨ 어려운 부동산 용어 쉽게 배우기
+#### ✨ 믿어방 AI 문자 마법사
+#### ✨ 자취방 구하기 A to Z 체크리스트 
+#### ✨ "챗쪽이 vs 금쪽이" 부동산 질문 게시판
 
 
 <br>
@@ -40,13 +43,6 @@
 <br>
 <br>
 
-# 🏠 프로젝트 시연
-1. [사이트 사용 시연 영상](https://www.youtube.com/watch?v=87sgWqe0_CM)
-2. [믿어방 기술 요소 검증 시연 영상](https://www.youtube.com/watch?v=12Gp_7EzfkM)
-
-<br>
-<br>
-
 # 🏠 System Architecture & Tech
 ![Frame 360](https://github.com/MIDUBANG/MIDUBANG-FRONT/assets/81161750/94067b2d-266f-4563-ae6a-f3734ff601d1)
 
@@ -54,17 +50,23 @@
 #### FrontEnd
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white">  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"> <img src="https://img.shields.io/badge/ReduxToolkit-764ABC?style=flat-square&logo=Redux&logoColor=white"> <img src="https://img.shields.io/badge/ReduxPersist-764ABC?style=flat-square&logo=Redux&logoColor=white"> <img src="https://img.shields.io/badge/axios-5A29E4?style=flat-square&logo=Axios&logoColor=white"> <img src="https://img.shields.io/badge/loadable-3178C6?style=flat-square">  <img src="https://img.shields.io/badge/craco-3178C6?style=flat-square">  
 
+#### BackEnd
+<img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat-square&logo=Springboot&logoColor=white"> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/Flask-092E20?style=flat-square&logo=Flask&logoColor=white"> <img src="https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=Gunicorn&logoColor=white"> <img src="https://img.shields.io/badge/NginX-009639?style=flat-square&logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"> <img src="https://img.shields.io/badge/AWS S3-569A31?style=flat-square&logo=amazons3&logoColor=white"> <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white">
+
 #### Style 
 <img src="https://img.shields.io/badge/emotion-764ABC?style=flat-square"> <img src="https://img.shields.io/badge/sweetalert2-764ABC?style=flat-square"> <img src="https://img.shields.io/badge/swiper-6332F6?style=flat-square&logo=swiper&logoColor=white"> <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"> 
 
 #### Code Formmater 
-<img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"><img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white">
+<img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"> <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white">
+
+#### CI/CD
+<img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
 
 ####  ETC &nbsp; 
  <img src="https://img.shields.io/badge/Figma -F24E1E?style=flat-square&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub -181717?style=flat-square&logo=GitHub&logoColor=white"/> 
  
 #### deploy 
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white">
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"> <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white">
 
 #### Package Manager 
 <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white">  
